@@ -6,7 +6,7 @@ title: Temperature And Humidity Sensor with LCD
 category: sensor
 supports: temperature, humidity
 zigbeemodel: ['LYWSD03MMC']
-compatible: [z2m, zha, tasmota]
+compatible: [z2m, zha, tasmota, deconz]
 mlink: https://github.com/pvvx/ZigbeeTLc
 link: https://www.aliexpress.com/item/1005006067590977.html
 link2: https://www.amazon.de/dp/B08C7KVDJW/
